@@ -1,6 +1,6 @@
 # Intro to OpenAPI with Apicurio
 
-In this lab we will look at managing an OpenAPI spec using Apicurio. A video is available on drive [here](https://drive.google.com/open?id=18sbISEPp8bT4d-DoKnKnypBWvbMVmRr9).
+In this lab we will look at managing an OpenAPI spec using Apicurio. 
 
 
 1. Open a web browser and navigate to https://www.apicur.io/
